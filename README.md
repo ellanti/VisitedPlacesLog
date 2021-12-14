@@ -7,15 +7,14 @@ When you start the application, A default location is shown as a visited place (
 
 # Backend
 
-To run backend :
-cd <backendFolder>
-npm install
+To run backend :\
+cd <*backendFolder*>\
+npm install\
 npm run watch
-(Note: Do not worry if you see a app crashed msg initially. Just wait! It is just trying to find dist folder which will be created in the process typescript transcompilation )
 
 # Frontend
 
-To run frontend :
-cd <clientFolder>
-npm install
+To run frontend :\
+cd <*clientFolder*>\
+npm install\
 npm start
