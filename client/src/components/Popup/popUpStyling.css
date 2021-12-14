@@ -1,0 +1,46 @@
+.leaflet-popup-content-wrapper {
+  border-radius: 2;
+  background-color: #4682b4;
+}
+
+.leaflet-popup-tip {
+  background: #4682b4;
+}
+
+.detailsDiv {
+  color: white;
+  font-size: 12px;
+  width: 240px;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.infoDiv {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttonDiv {
+  height: 40px;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.imagestyle {
+  width: 240px;
+  height: 200px;
+  margin-top: 20px;
+  object-fit: cover;
+}
+
+.save:hover {
+  background-color: #d0f0c0;
+}
+
+.del:hover {
+  background-color: #fa8072;
+}
